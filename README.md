@@ -14,7 +14,7 @@ This project provides 3 main functionalites.
   1) Finding available seat number
   2) Holding a seat
   3) Reserve the hold order
-If customer takes more than 5 seconds after hold than hold order will get canceled.  
+If customer takes more than 5 seconds after hold than hold order will get canceled. It uses timer and tasktimer implementation to track time for each hold order.
 
 # How To run this project on command line.
 
